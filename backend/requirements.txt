@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+httpx
+requests
+pytesseract
+Pillow
+numpy
+opencv-python-headless
+pdf2image
